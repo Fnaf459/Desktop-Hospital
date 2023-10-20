@@ -1,0 +1,557 @@
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll.config
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.pdb
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.pdb
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csprojAssemblyReference.cache
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CoreCompileInputs.cache
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CopyComplete
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.dll
+C:\Users\shovk\source\repos\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.pdb
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll.config
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.pdb
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.pdb
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csprojAssemblyReference.cache
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CoreCompileInputs.cache
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CopyComplete
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.pdb
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll.config
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.pdb
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.pdb
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csprojAssemblyReference.cache
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CoreCompileInputs.cache
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CopyComplete
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.pdb
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.Charting.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.Charting.xml
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\shovk\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.Rendering.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.Charting.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.Rendering.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.Charting.xml
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\PdfSharp.resources.dll
+D:\Study\Kursach\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll.config
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.pdb
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.Rendering.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.Charting.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.pdb
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\MigraDoc.Rendering.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PdfSharp.Charting.xml
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\PdfSharp.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csprojAssemblyReference.cache
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CoreCompileInputs.cache
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CopyComplete
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.dll
+D:\Study\BudteBolni\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.pdb
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll.config
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.pdb
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.pdb
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.AssemblyReference.cache
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CoreCompileInputs.cache
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CopyComplete
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.dll
+E:\Документы\Учёба\2 курс\Технологии программирования\Курсач\2\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.pdb
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll.config
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicDatabase.pdb
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\PolyclinicBusinessLogic.pdb
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Buffers.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Memory.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.AssemblyReference.cache
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.csproj.CopyComplete
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.dll
+C:\Users\Boss\source\repos\Kyrsach\PolyclinicMeteringProgram\PolyclinicDatabase\obj\Debug\PolyclinicDatabase.pdb
